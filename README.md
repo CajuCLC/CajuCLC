@@ -11,7 +11,7 @@ I have a strong background in eCommerce, specializing in Magento platform and ha
 Feel free to check out my [LinkedIn profile](https://www.linkedin.com/in/ericcavalcanti/) and connect with me.
 
 ## Github Stats
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cajuclc&show_icons=true&theme=radical)](https://github.com/ericcavalcanti)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=cajuclc&show_icons=true&theme=radical)](https://github.com/cajuclc)
 
 ## Skills
 
