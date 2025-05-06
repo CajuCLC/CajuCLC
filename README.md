@@ -2,7 +2,7 @@
 
 <img align="right" alt="Eric Cavalcanti" src="https://avatars.githubusercontent.com/u/1249095?v=4" width="200" height="200" /> 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=cajuclc.visitor-badge)](https://github.com/CajuCLC)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=CajuCLC&label=Visitors&labelColor=%23d9e3f0&countColor=%23263759)](https://visitorbadge.io/status?path=CajuCLC)
 
 Hi there! 👋 My name is **Eric Cavalcanti** and I am a **Cloud Infrastructure Architect** at Amazon Web Services based in San Antonio, Texas.
 
